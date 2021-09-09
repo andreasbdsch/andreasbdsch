@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andreasbdsch
 - 👀 I’m interested in architecture, photography and digital life
 - 🌱 I’m currently learning HTML, CSS, ECMAScript, PHP, MySQL
-- 💞️ I’m looking to collaborate on any interesting idea related to developing (web-)applications to improve (digital) life
+- 💞️ I’m looking forward to learn about and collaborate on any interesting idea related to developing (web-)applications to improve (digital) life
 - 📫 How to reach me: mail@andreasbaudisch.de
 
 <!---
